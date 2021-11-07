@@ -22542,3 +22542,17 @@
         "website": "https://dockcoin.me/"
       }
 }
+	{
+		"chainId": 101,
+		"address": "ErrptjqFWqWfzwbSe1aP3UnhEpaypewCWw13L1Ak92TD",
+		"symbol": "DIPP",
+		"name": "TheDIPP",
+		"decimals": 8,
+		"logoURI": "https://imgur.com/a/9EphEBB",
+		"tags": [
+		"Social token"
+		],
+		"extensions": {
+			"telegram": ""
+			
+		}
